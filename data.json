@@ -1,0 +1,24 @@
+{
+    "surveyName": "abc",
+    "adminID": "1",
+    "questions": [
+        {
+            "question": "WHAT IS YOUR NAME",
+            "options": []
+        },
+        {
+            "question": "WHAT IS YOUR AGE",
+            "options": [
+                {
+                    "name": "9"
+                },
+                {
+                    "name": "10"
+                },
+                {
+                    "name": "11"
+                }
+            ]
+        }
+    ]
+}
